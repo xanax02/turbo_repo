@@ -3,8 +3,7 @@
   "compilerOptions": {
     "lib": ["ES2015"],
     "outDir": "./dist",
-    "module": "NodeNext",
-    "rootDir": "./src"
+    "rootDir": "./src",
   },
   "exclude": ["node_modules"],
   "include": ["."]
