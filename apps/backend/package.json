@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@repo/common": "*",
     "express": "^4.19.2"
   },
   "devDependencies": {
