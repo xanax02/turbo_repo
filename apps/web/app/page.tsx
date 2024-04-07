@@ -1,4 +1,5 @@
 
+import { Admin } from "@repo/ui/admin";
 import styles from "./page.module.css";
 import { Button } from "@repo/ui/button";
 
